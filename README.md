@@ -20,12 +20,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
 
-### State Management
-
-![Riverpod](https://img.shields.io/badge/Riverpod-0B6E99?style=flat-square\&logo=riverpod\&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-00B4AB?style=flat-square)
-
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
